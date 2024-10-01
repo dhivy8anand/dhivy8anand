@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Dhivyesh Anand
-- 👀 I’m interested in programming and gaming
-- 🌱 I’m currently learning engineering
-- 💞️ I’m looking to collaborate on software develoupments
+- 👀 I’m interested in programming, hardware design and gaming
+- 🌱 I’m currently a grad student
+- 💞️ I’m looking to collaborate on software and hardware develoupments
 - 📫 Contact me: dhivyeshanand123@gmail.com
 
 <!---
